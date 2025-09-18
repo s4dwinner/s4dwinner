@@ -27,7 +27,7 @@ Certified web developer 🏅 with **1.5 years of hands-on experience** in both f
 ## 💼 Projects & Highlights
 
 - Password Generator tool — secure, customizable, for both simple PINs and full-strength passwords  
-- Responsive portfolio site (this site!) showcasing skills and projects  
+- Responsive portfolio site (https://ahmed-the-web-wizard.lovable.app/) showcasing skills and projects  
 - Various utility scripts for automating repetitive tasks  
 - Web pages & small sites with clean UI / UX  
 - Continuous learning: building on certificates, practicing code daily, exploring new frameworks  
@@ -54,8 +54,8 @@ Certified web developer 🏅 with **1.5 years of hands-on experience** in both f
 ## 📫 Reach Me At
 
 - Portfolio: [Ahmed-The-Web-Wizard](https://ahmed-the-web-wizard.lovable.app)  
-- GitHub: [github.com/yourusername](https://github.com/yourusername)  
-- Email: yourname@example.com  
+- GitHub: [github.com/s4dwinner](https://github.com/s4dwinner)  
+- Email: s4dwinner@gmail.com 
 
 ---
 
