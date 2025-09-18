@@ -2,8 +2,9 @@
 
 # 👋 Hi, I’m Ahmed Elhiouli — *The Web Wizard*
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Ahmed_Elhiouli-blue?logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/ahmed-the-web-wizard)](https://www.linkedin.com/in/ahmed-the-web-wizard)  
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
+[![LinkedIn Badge](https://img.shields.io/badge/-Ahmed_Elhiouli-blue?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ahmed-elhiouli-961a8718a/)
+[![GitHub followers](https://img.shields.io/github/followers/s4dwinner?label=Follow&style=social)](https://github.com/s4dwinner)
+
 
 I build clean, responsive web solutions, automate tasks, and create utility tools that make life easier.  
 Certified web developer 🏅 with **1.5 years of hands-on experience** in both front-end and back-end basics.
