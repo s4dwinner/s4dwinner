@@ -1,87 +1,83 @@
-👨‍💻 Ahmed Elhiouli — The CyberSec Web Wizard 🛡️
+<div align="center">
 
-  
-  
-  
+# 👋 Hi, I’m Ahmed Elhiouli — *The Web Wizard*
 
-
-
-🔒 Crafting secure, responsive web solutions and building powerful Linux terminal tools to conquer the digital realm!🧙‍♂️ Certified web developer with 1.5 years of experience in web development and a passion for cybersecurity. I specialize in creating secure, user-friendly applications and automating tasks with custom Linux tools.  
-⚡ Fun Fact: I debug code faster than I debug my Wi-Fi, but I secure both with equal finesse! 😎  
-
-🛠️ My Arsenal
+[![LinkedIn Badge](https://img.shields.io/badge/-Ahmed_Elhiouli-blue?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ahmed-elhiouli-961a8718a/)
+[![GitHub followers](https://img.shields.io/github/followers/s4dwinner?label=Follow&style=social)](https://github.com/s4dwinner)
 
 
+I build clean, responsive web solutions, automate tasks, and create utility tools that make life easier.  
+Certified web developer 🏅 with **1.5 years of hands-on experience** in both front-end and back-end basics.
 
-Area
-Technologies & Tools
+</div>
 
+---
 
+## 🔧 Skills
 
-Web Development
-HTML5 · CSS3 · JavaScript (ES6+) · React (learning) · Tailwind CSS · Bootstrap
+| Area | Technologies & Tools |
+|------|------------------------|
+| Front-End | HTML5 · CSS3 · JavaScript · Responsive Design · Bootstrap / Tailwind CSS |
+| Back-End / Scripting | Python · Node.js (basic) · API integrations |
+| Automation & Tools | Utility scripts, password generators, small automations |
+| Tools & Software | Git · GitHub · VSCode · Basic deployment / hosting |
+| Databases & Data | Basic CRUD operations, working with data (JSON / flat files) |
 
+---
 
-Cybersecurity
-Network Security · Penetration Testing Basics · Secure Coding Practices · OWASP Principles
+## 💼 Projects & Highlights
 
+- Password Generator tool — secure, customizable, for both simple PINs and full-strength passwords  
+- Responsive portfolio site (https://ahmed-the-web-wizard.lovable.app/) showcasing skills and projects  
+- Various utility scripts for automating repetitive tasks  
+- Web pages & small sites with clean UI / UX  
+- Continuous learning: building on certificates, practicing code daily, exploring new frameworks  
 
-Linux & Scripting
-Bash · Python · Custom CLI Tools · Automation Scripts · Linux System Administration
+---
 
+## 📚 Certifications & Experience
 
-Back-End
-Node.js (Express basics) · RESTful APIs · JSON Handling
+- Certified in Web Development  
+- 1.5 years of practical development experience  
+- Strong foundation in front-end technologies & scripting  
 
+---
 
-Tools & Platforms
-Git · GitHub · VSCode · Docker (learning) · Basic Cloud Deployment (AWS/Heroku)
+## 🎯 Currently & Next Steps
 
+- Learning more about modern JavaScript frameworks (React, Vue)  
+- Improving full-stack skills  
+- Contributing to open-source projects  
+- Diving deeper into deployment, cloud, and performance optimization  
 
-Databases
-MySQL Basics · MongoDB (learning) · CRUD Operations
+---
 
+## 📫 Reach Me At
 
+- Portfolio: [Ahmed-The-Web-Wizard](https://ahmed-the-web-wizard.lovable.app)  
+- GitHub: [github.com/s4dwinner](https://github.com/s4dwinner)  
+- Email: s4dwinner@gmail.com 
 
-🚀 Projects & Highlights
+---
 
-🔑 Secure Password Generator: A Python-based CLI tool for generating strong, customizable passwords and PINs with entropy checks.  
-🌐 Responsive Portfolio Site: A sleek, secure portfolio showcasing my projects with a focus on clean UI/UX (ahmed-the-web-wizard.lovable.app).  
-🛠️ Linux Terminal Tools: Built custom Bash and Python scripts for system monitoring, log analysis, and task automation.  
-🔍 CyberSec Experiments: Conducting basic penetration tests and exploring secure coding practices to harden web apps.  
-📜 Utility Scripts: Automated repetitive tasks like file organization, backups, and data scraping with Python and Bash.
+<div align="center">  
+Made with 💡, 📐, and lots of coffee ☕ — Ahmed “The Web Wizard”  
+</div>
 
+this is my readme mark down i want you to edite it and maket better for cybersec and web dev and it things and stuff and make it like this and more better for my different and my specialiyty in the linux terminal tools building and cyber sec domains here is the exemple i like those emojis or pics that this guys using 
 
-🏅 Certifications & Experience
+paulafredo/README.md
+👾 Salut, je suis Paul Alfredo
+🕶️ À propos de moi
+🎮 Master du gaming et passionné d'informatique.
+🌱 Codeur en formation – Je dévore Python et explore sans relâche de nouvelles technologies.
+⚡ Fun fact : J'aime coder plus que tout... sauf quand Parcoursup me fait un bug de logique ! 😂
+📚 Actuellement autodidacte : j'apprends C# et Python tous les jours pour m'améliorer.
+📊 Mes stats GitHub
+Profile views
 
-🥇 Certified Web Developer (1.5 years of hands-on experience).  
-📜 Completed Cybersecurity Fundamentals (focus on secure coding and network basics).  
-🧠 Actively practicing secure web development and Linux-based tool creation.
+🖥️ Mon arsenal technique
+C# Python Bootstrap HTML5 CSS3 JavaScript GSAP
 
-
-🎯 Current Quests & Future Plans
-
-🔄 Diving deeper into React and Vue.js for modern front-end development.  
-🔒 Expanding cybersecurity expertise with penetration testing and ethical hacking tools.  
-🐳 Learning Docker and Kubernetes for scalable, secure deployments.  
-🌍 Contributing to open-source projects in web dev and cybersecurity.  
-⚙️ Building advanced Linux CLI tools for system administration and security auditing.
-
-
-📊 GitHub Stats
-
-  
-  
-
-
-
-📬 Connect with Me
-
-🌐 Portfolio: Ahmed-The-Web-Wizard  
-💻 GitHub: github.com/s4dwinner  
-📧 Email: s4dwinner@gmail.com  
-🔗 LinkedIn: Ahmed Elhiouli
-
-
-  
-✨ **Built with code, secured with vigilance, powered by coffee** ☕ — Ahmed *The CyberSec Web Wizard*  
+📊 Statistics
+Top Languages
