@@ -63,21 +63,3 @@ Certified web developer 🏅 with **1.5 years of hands-on experience** in both f
 <div align="center">  
 Made with 💡, 📐, and lots of coffee ☕ — Ahmed “The Web Wizard”  
 </div>
-
-this is my readme mark down i want you to edite it and maket better for cybersec and web dev and it things and stuff and make it like this and more better for my different and my specialiyty in the linux terminal tools building and cyber sec domains here is the exemple i like those emojis or pics that this guys using 
-
-paulafredo/README.md
-👾 Salut, je suis Paul Alfredo
-🕶️ À propos de moi
-🎮 Master du gaming et passionné d'informatique.
-🌱 Codeur en formation – Je dévore Python et explore sans relâche de nouvelles technologies.
-⚡ Fun fact : J'aime coder plus que tout... sauf quand Parcoursup me fait un bug de logique ! 😂
-📚 Actuellement autodidacte : j'apprends C# et Python tous les jours pour m'améliorer.
-📊 Mes stats GitHub
-Profile views
-
-🖥️ Mon arsenal technique
-C# Python Bootstrap HTML5 CSS3 JavaScript GSAP
-
-📊 Statistics
-Top Languages
