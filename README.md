@@ -1,4 +1,4 @@
-# 🔒  *CyberSec & Privacy Advocate* 🕵️‍♂️
+# 🔒 *CyberSec & Privacy Advocate* 🕵️‍♂️
 
 <div align="center" style="margin-bottom: 32px;">
   <a href="https://tryhackme.com/p/winned4s" target="_blank">
@@ -20,31 +20,33 @@
 
 ## 🛠️ My Toolkit
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
 
-<!-- Cybersecurity & Platforms -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="48" title="Bash" style="margin:12px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="48" title="Python" style="margin:12px;"/>
-<img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="Wireshark" width="48" title="Wireshark" style="margin:12px;"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Kali-linux-logo.svg" alt="Kali Linux" width="48" title="Kali Linux" style="margin:12px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="48" title="Docker" style="margin:12px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="48" title="Linux" style="margin:12px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="48" title="VSCode" style="margin:12px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" title="Git" style="margin:12px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="48" title="GitHub" style="margin:12px;"/>
-<img src="https://raw.githubusercontent.com/OWASP/www-community/master/assets/images/OWASP-logo.png" alt="OWASP" width="48" title="OWASP" style="margin:12px;"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Tor-logo-purple.svg" alt="Tor" width="48" title="Tor" style="margin:12px;"/>
+<!-- Core Security & Platforms -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="48" title="Bash"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="48" title="Python"/>
+<img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="Wireshark" width="48" title="Wireshark"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="48" title="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="48" title="Linux"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="48" title="VSCode"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" title="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="48" title="GitHub"/>
+
+<!-- Modern Substitutes for Missing Icons -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terminal/terminal-plain.svg" alt="Terminal (Kali)" width="48" title="Kali Linux"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Onion_icon.svg" alt="Onion (Tor)" width="48" title="Tor"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shield/shield-original.svg" alt="Shield (OWASP)" width="48" title="OWASP"/>
 
 <!-- Web Development -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="48" title="HTML5" style="margin:12px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="48" title="CSS3" style="margin:12px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" title="JavaScript" style="margin:12px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="48" title="React" style="margin:12px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="48" title="Tailwind CSS" style="margin:12px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="48" title="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="48" title="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" title="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="48" title="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="48" title="Tailwind CSS"/>
 
 <!-- Back-End -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" title="Node.js" style="margin:12px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="48" title="Express" style="margin:12px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" title="Node.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="48" title="Express"/>
 
 </div>
 
