@@ -1,11 +1,11 @@
-<xaiArtifact artifact_id="18dd7dce-3747-4cdd-839c-68954b170307" artifact_version_id="bcedc914-336a-467b-9d8a-f829897c6d42" title="README.md" contentType="text/markdown">
-
 # 🔒 — *CyberSec & Privacy Advocate* 🕵️‍♂️
 
 <div align="center">
   <img src="https://img.shields.io/badge/-CyberSec_&_Privacy-0A0A0A?logo=shield&logoColor=00FF00&style=flat-square" alt="CyberSec & Privacy Badge">
   <a href="https://www.linkedin.com/in/ahmed-elhiouli-961a8718a/"><img src="https://img.shields.io/badge/-LJinny-blue?logo=LinkedIn&logoColor=white&style=flat-square" alt="LinkedIn"></a>
   <a href="https://github.com/s4dwinner"><img src="https://img.shields.io/github/followers/s4dwinner?label=Follow&style=social" alt="GitHub Followers"></a>
+  <!-- TryHackMe badge -->
+  <a href="https://tryhackme.com/p/3874238"><img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3874238" alt="TryHackMe Profile"></a>
 </div>
 
 ---
@@ -79,5 +79,3 @@
 <div align="center">  
 🔑 **Coded with precision, secured with passion, fueled by privacy** ☕ — LJiNNY  
 </div>
-
-</xaiArtifact>
