@@ -68,15 +68,6 @@
 
 ---
 
-## 📬 Contact Me
-
-- 🌐 Portfolio: [Privacy Portfolio](https://ahmed-the-web-wizard.lovable.app)
-- 💻 GitHub: [github.com/s4dwinner](https://github.com/s4dwinner)
-- 📧 Email: [s4dwinner@gmail.com](mailto:s4dwinner@gmail.com)
-- 🔗 LinkedIn: [Ahmed Elhiouli](https://www.linkedin.com/in/ahmed-elhiouli-961a8718a/)
-
----
-
 <div align="center">
   🔑 **Coded with precision, secured with passion, fueled by privacy.** ☕
 </div>
