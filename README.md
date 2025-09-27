@@ -1,15 +1,23 @@
 # 🔒 *CyberSec & Privacy Advocate* 🕵️‍♂️
 
-<div align="center" style="margin-bottom: 32px;">
-  <a href="https://tryhackme.com/p/winned4s" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/winned4s.png" alt="TryHackMe Badge" width="230" style="margin-right: 32px;"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ahmed-elhiouli-961a8718a/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="76" height="76" style="vertical-align:middle;">
-  </a>
-</div>
+<!-- Top section: LinkedIn left, TryHackMe right in one line using a table -->
+<table>
+  <tr>
+    <td align="left" width="50%">
+      <a href="https://www.linkedin.com/in/ahmed-elhiouli-961a8718a/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="48" height="48">
+      </a>
+    </td>
+    <td align="right" width="50%">
+      <a href="https://tryhackme.com/p/winned4s" target="_blank">
+        <img src="https://tryhackme-badges.s3.amazonaws.com/winned4s.png" alt="TryHackMe Badge" width="110">
+      </a>
+    </td>
+  </tr>
+</table>
 
-<div align="center" style="margin: 24px 0;">
+<!-- Trophy section: centered below TryHackMe badge -->
+<div align="center" style="margin: 10px 0 18px 0;">
   <img src="https://github-profile-trophy.vercel.app/?username=s4dwinner&theme=onedark" alt="GitHub Profile Trophies"/>
 </div>
 
@@ -24,6 +32,7 @@
 
 ## 🛠️ My Toolkit
 
+<!-- Modern badges for Kali Linux, Tor, OWASP -->
 <div align="center" style="margin-bottom: 12px;">
   <a href="https://www.kali.org" target="_blank">
     <img src="https://img.shields.io/badge/Kali%20Linux-%232d2d2d?style=flat&logo=kali-linux&logoColor=white" alt="Kali Linux" height="32"/>
@@ -36,22 +45,31 @@
   </a>
 </div>
 
+<!-- Tech icon grid -->
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="48" title="Bash"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="48" title="Python"/>
-  <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="Wireshark" width="48" title="Wireshark"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="48" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="48" title="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="48" title="VSCode"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="48" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="48" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="48" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="48" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="48" title="Tailwind CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="48" title="Express"/>
+  <img src="https://skillicons.dev/icons?i=ts" height="38" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="38" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="38" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="38" alt="storybook logo"  />
+  <img src="https://skillicons.dev/icons?i=graphql" height="38" alt="graphql logo"  />
+  <img src="https://skillicons.dev/icons?i=go" height="38" alt="go logo"  />
+  <img src="https://skillicons.dev/icons?i=rust" height="38" alt="rust logo"  />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="38" alt="nestjs logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="38" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="38" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="38" title="Bash"/>
+  <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="Wireshark" width="38" title="Wireshark"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="38" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="38" title="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="38" title="VSCode"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="38" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="38" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="38" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="38" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="38" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="38" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="38" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="38" title="Express"/>
 </div>
 
 ---
