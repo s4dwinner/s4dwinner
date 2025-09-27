@@ -1,18 +1,11 @@
-# 🔒 — *CyberSec & Privacy Advocate* 🕵️‍♂️
+# 🔒  *CyberSec & Privacy Advocate* 🕵️‍♂️
 
-<div align="center" style="margin-bottom: 16px;">
-  <img src="https://img.shields.io/badge/-CyberSec_&_Privacy-0A0A0A?logo=shield&logoColor=00FF00&style=for-the-badge" alt="CyberSec & Privacy Badge" style="margin-right:8px;"/>
-  <a href="https://www.linkedin.com/in/ahmed-elhiouli-961a8718a/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" style="vertical-align:middle;margin-right:8px;">
-  </a>
-  <a href="https://github.com/s4dwinner" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="vertical-align:middle;">
-  </a>
-</div>
-
-<div align="center" style="margin-top: 24px;">
+<div align="center" style="margin-bottom: 24px;">
   <a href="https://tryhackme.com/p/winned4s" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/winned4s.png" alt="TryHackMe Badge" width="180" style="margin-top:8px;"/>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/winned4s.png" alt="TryHackMe Badge" width="220" style="margin-right: 24px;"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ahmed-elhiouli-961a8718a/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="64" height="64" style="vertical-align:middle;">
   </a>
 </div>
 
