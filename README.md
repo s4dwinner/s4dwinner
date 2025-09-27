@@ -1,73 +1,42 @@
-# 🔒  *CyberSec & Privacy Advocate* 🕵️‍♂️
+## 🛠️ My Toolkit
 
-<div align="center" style="margin-bottom: 24px;">
-  <a href="https://tryhackme.com/p/winned4s" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/winned4s.png" alt="TryHackMe Badge" width="220" style="margin-right: 24px;"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ahmed-elhiouli-961a8718a/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="64" height="64" style="vertical-align:middle;">
-  </a>
+<div align="center">
+
+<!-- Cybersecurity -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" style="margin:10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" style="margin:10px;"/>
+<img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="Wireshark" width="40" style="margin:10px;"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kali-linux.svg" alt="Kali Linux" width="40" style="margin:10px;"/>
+<img src="https://www.vectorlogo.zone/logos/owasp/owasp-icon.svg" alt="OWASP" width="40" style="margin:10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" style="margin:10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" style="margin:10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" style="margin:10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" style="margin:10px;"/>
+
+<!-- Web Development -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" style="margin:10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" style="margin:10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" style="margin:10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" style="margin:10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" style="margin:10px;"/>
+
+<!-- Back-End -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" style="margin:10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" style="margin:10px;"/>
+
+<!-- Privacy -->
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tor.svg" alt="Tor" width="40" style="margin:10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" style="margin:10px;"/>
+
 </div>
 
 ---
 
-🛡️ **Securing the digital world with privacy-first web solutions and powerful Linux terminal tools.**  
-👨‍💻 I'm a certified web developer and cybersecurity enthusiast with **1.5 years of experience**, specializing in secure web applications and crafting Linux CLI tools. My mission: protect user data and empower secure, privacy-focused systems.
-
-⚡ **Fun Fact**: I can lock down a server tighter than my morning coffee recipe! ☕
-
----
-
-## 🛠️ My Toolkit
-
 | Area              | Technologies & Tools                                                                 |
 |-------------------|-------------------------------------------------------------------------------------|
-| **Cybersecurity** | Penetration Testing (Metasploit, Burp Suite basics) · Secure Coding · OWASP Top 10 · Encryption |
+| **Cybersecurity** | Metasploit · Burp Suite basics · Secure Coding · OWASP Top 10 · Encryption |
 | **Web Development** | HTML5 · CSS3 · JavaScript (ES6+) · React (learning) · Tailwind CSS                |
 | **Linux & Scripting** | Bash · Python · Custom CLI Tools · System Hardening · Log Analysis              |
 | **Back-End**      | Node.js (Express basics) · RESTful APIs · JSON Security                             |
 | **Tools & Platforms** | Git · GitHub · VSCode · Docker (learning) · Kali Linux · Wireshark             |
 | **Privacy**       | VPN Configuration · Tor · Data Anonymization · Secure File Handling                 |
-
----
-
-## 🚀 Key Projects & Achievements
-
-- 🔐 **Privacy-First Password Generator**: Python CLI tool for generating cryptographically secure passwords with advanced entropy validation.
-- 🌐 **Secure Portfolio Site**: Privacy-focused, responsive portfolio with secure headers and XSS protection ([ljinny-privacy.lovable.app](https://ahmed-the-web-wizard.lovable.app)).
-- 🛠️ **Linux Security Scripts**: Bash/Python tools for system monitoring, intrusion detection, and automated log auditing.
-- 🔍 **Penetration Testing Practice**: Ethical hacking exercises to find web vulnerabilities using OWASP ZAP and manual testing.
-- 📜 **Automation Scripts**: Tools for secure file encryption, backup automation, and network scanning.
-
----
-
-## 🏅 Certifications & Experience
-
-- 🥇 Certified Web Developer (1.5 years of hands-on experience)
-- 📜 Cybersecurity Fundamentals (focus: secure coding, network security, ethical hacking)
-- 🧠 Actively exploring privacy-enhancing technologies and advanced Linux security tools
-
----
-
-## 🎯 Current Missions & Future Goals
-
-- 🔍 Mastering **React** and **Vue.js** for secure front-end development
-- 🛡️ Advancing in **penetration testing** and **ethical hacking** (aiming for OSCP)
-- 🐳 Exploring **Docker** for secure, containerized deployments
-- 🌍 Contributing to open-source cybersecurity and privacy projects
-- 🔐 Building advanced Linux CLI tools for privacy auditing and system hardening
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s4dwinner&show_icons=true&theme=dark" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4dwinner&layout=compact&theme=dark" alt="Top Languages">
-</div>
-
----
-
-<div align="center">
-  🔑 **Coded with precision, secured with passion, fueled by privacy.** ☕
-</div>
