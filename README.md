@@ -1,22 +1,25 @@
 # 🔒 — *CyberSec & Privacy Advocate* 🕵️‍♂️
 
-<div align="center">
-  <img src="https://img.shields.io/badge/-CyberSec_&_Privacy-0A0A0A?logo=shield&logoColor=00FF00&style=flat-square" alt="CyberSec & Privacy Badge">
-  <a href="https://www.linkedin.com/in/ahmed-elhiouli-961a8718a/">
-    <img src="https://img.shields.io/badge/-LJinny-blue?logo=LinkedIn&logoColor=white&style=flat-square" alt="LinkedIn">
+<div align="center" style="margin-bottom: 16px;">
+  <img src="https://img.shields.io/badge/-CyberSec_&_Privacy-0A0A0A?logo=shield&logoColor=00FF00&style=for-the-badge" alt="CyberSec & Privacy Badge" style="margin-right:8px;"/>
+  <a href="https://www.linkedin.com/in/ahmed-elhiouli-961a8718a/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" style="vertical-align:middle;margin-right:8px;">
   </a>
-  <a href="https://github.com/s4dwinner">
-    <img src="https://img.shields.io/github/followers/s4dwinner?label=Follow&style=social" alt="GitHub Followers">
+  <a href="https://github.com/s4dwinner" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="vertical-align:middle;">
   </a>
-  <a href="https://tryhackme.com/p/winned4s">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/winned4s.png" alt="TryHackMe Badge" style="height:28px;">
+</div>
+
+<div align="center" style="margin-top: 24px;">
+  <a href="https://tryhackme.com/p/winned4s" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/winned4s.png" alt="TryHackMe Badge" width="180" style="margin-top:8px;"/>
   </a>
 </div>
 
 ---
 
 🛡️ **Securing the digital world with privacy-first web solutions and powerful Linux terminal tools.**  
-👨‍💻 I'm LJinny, a certified web developer and cybersecurity enthusiast with **1.5 years of experience**, specializing in secure web applications and crafting Linux CLI tools. My mission: protect user data and empower secure, privacy-focused systems.
+👨‍💻 I'm a certified web developer and cybersecurity enthusiast with **1.5 years of experience**, specializing in secure web applications and crafting Linux CLI tools. My mission: protect user data and empower secure, privacy-focused systems.
 
 ⚡ **Fun Fact**: I can lock down a server tighter than my morning coffee recipe! ☕
 
@@ -74,7 +77,7 @@
 
 ## 📬 Contact Me
 
-- 🌐 Portfolio: [LJinny-Privacy](https://ahmed-the-web-wizard.lovable.app)
+- 🌐 Portfolio: [Privacy Portfolio](https://ahmed-the-web-wizard.lovable.app)
 - 💻 GitHub: [github.com/s4dwinner](https://github.com/s4dwinner)
 - 📧 Email: [s4dwinner@gmail.com](mailto:s4dwinner@gmail.com)
 - 🔗 LinkedIn: [Ahmed Elhiouli](https://www.linkedin.com/in/ahmed-elhiouli-961a8718a/)
@@ -82,5 +85,5 @@
 ---
 
 <div align="center">
-  🔑 **Coded with precision, secured with passion, fueled by privacy.** ☕ — LJinny
+  🔑 **Coded with precision, secured with passion, fueled by privacy.** ☕
 </div>
