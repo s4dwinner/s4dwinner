@@ -1,6 +1,6 @@
 <xaiArtifact artifact_id="18dd7dce-3747-4cdd-839c-68954b170307" artifact_version_id="bcedc914-336a-467b-9d8a-f829897c6d42" title="README.md" contentType="text/markdown">
 
-# 🔒 LJiNNY — *CyberSec & Privacy Advocate* 🕵️‍♂️
+# 🔒 — *CyberSec & Privacy Advocate* 🕵️‍♂️
 
 <div align="center">
   <img src="https://img.shields.io/badge/-CyberSec_&_Privacy-0A0A0A?logo=shield&logoColor=00FF00&style=flat-square" alt="CyberSec & Privacy Badge">
