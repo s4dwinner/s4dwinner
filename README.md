@@ -77,7 +77,7 @@
 ## 🚀 Key Projects & Achievements
 
 - 🔐 **Privacy-First Password Generator**: Python CLI tool for generating cryptographically secure passwords with advanced entropy validation.
-- 🌐 **Secure Portfolio Site**: Privacy-focused, responsive portfolio with secure headers and XSS protection ([ljinny-privacy.lovable.app](https://ahmed-the-web-wizard.lovable.app)).
+- 🌐 **Secure Portfolio Site**: Privacy-focused, responsive portfolio with secure headers and XSS protection ([S4dwinner Portfolio](https://s4dwinner.lovable.app/)).
 - 🛠️ **Linux Security Scripts**: Bash/Python tools for system monitoring, intrusion detection, and automated log auditing.
 - 🔍 **Penetration Testing Practice**: Ethical hacking exercises to find web vulnerabilities using OWASP ZAP and manual testing.
 - 📜 **Automation Scripts**: Tools for secure file encryption, backup automation, and network scanning.
