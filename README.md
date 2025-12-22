@@ -1,55 +1,64 @@
-Ahmed Elhiouli
-Cybersecurity Specialist | Penetration Tester
+# Ahmed Elhiouli  
+Cybersecurity Specialist | Penetration Tester  
 
-https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin
-https://tryhackme-badges.s3.amazonaws.com/winned4s.png
+[LinkedIn Profile](https://www.linkedin.com/in/ahmed-elhiouli-961a8718a)  
+[TryHackMe Profile](https://tryhackme.com/p/winned4s)  
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/winned4s.png)
 
-Technical Expertise
-Security Tools & Platforms
+## Technical Expertise  
 
-Kali Linux, Burp Suite, Metasploit, Nmap, Wireshark
+### Security Tools & Platforms  
+Kali Linux  
+Burp Suite  
+Metasploit  
+Nmap  
+Wireshark  
+OWASP Testing Methodology  
+Tor  
 
-OWASP Testing Methodology, Tor
+### Programming & Scripting  
+Python  
+Bash  
+JavaScript  
+HTML/CSS  
+React  
+Node.js  
+Next.js  
+Tailwind CSS  
 
-Programming & Scripting
+### Infrastructure & DevOps  
+Linux Administration  
+Docker  
+Git  
+GitHub  
 
-Python, Bash, JavaScript
+## Professional Services  
 
-HTML/CSS, React, Node.js, Next.js, Tailwind
+**CyberMa Services**  
+Founder and operator of a cybersecurity consultancy providing specialized security assessments, penetration testing, and vulnerability management services.  
 
-Infrastructure & DevOps
+Website: [cyberma-services.vercel.app](https://cyberma-services.vercel.app)  
 
-Linux Administration, Docker, Git, GitHub
+**Personal Portfolio**  
+Professional experience, technical projects, and cybersecurity research.  
 
-Professional Services
-CyberMa Services
-Founder and operator of a cybersecurity consultancy offering specialized security assessments and penetration testing services.
+Website: [s4dwinner.lovable.app](https://s4dwinner.lovable.app)  
 
-cyberma-services.vercel.app
+## Core Competencies  
+Web Application Security: API security testing, vulnerability assessment, penetration testing  
+Network Security: Protocol analysis, network reconnaissance, traffic analysis  
+Automation: Custom Python scripting for security tool development and process automation  
+Secure Development: Implementation of application security principles and secure coding practices  
+Client Engagement: Delivery of tailored security solutions and professional consultancy services  
 
-Personal Portfolio
-Showcasing professional experience, technical projects, and cybersecurity research.
+## GitHub Activity  
 
-s4dwinner.lovable.app
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=s4dwinner&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=e0e0e0&icon_color=00d1ff" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4dwinner&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=e0e0e0&icon_color=00d1ff" alt="Top Languages" />
+</div>
 
-Core Competencies
-Web Application Security: API security testing, vulnerability assessment, penetration testing
-
-Network Security: Protocol analysis, network reconnaissance, traffic analysis
-
-Automation: Custom Python scripting for security automation and tool development
-
-Secure Development: Application security principles and secure coding practices
-
-Client Engagement: Providing tailored security solutions through professional consultancy
-
-GitHub Activity
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=s4dwinner&show_icons=true&bg_color=0d0d0d&title_color=00ff41&text_color=e0e0e0&icon_color=00d1ff&border_radius=10" alt="GitHub Stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4dwinner&layout=compact&bg_color=0d0d0d&title_color=00ff41&text_color=e0e0e0&icon_color=00d1ff&border_radius=10" alt="Top Languages"> </div>
-Contact
-Cybersecurity Consultancy: cyberma-services.vercel.app
-
-Portfolio: s4dwinner.lovable.app
-
-Email: Available on LinkedIn profile
-
-Location: Morocco
+## Contact  
+Cybersecurity Consultancy: [cyberma-services.vercel.app](https://cyberma-services.vercel.app)  
+Portfolio: [s4dwinner.lovable.app](https://s4dwinner.lovable.app)  
+Email: Available via LinkedIn profile  
