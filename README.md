@@ -1,68 +1,133 @@
-# Ahmed Elhiouli
-Cybersecurity Specialist | Penetration Tester
+<div align="center">
 
-[LinkedIn Profile](https://www.linkedin.com/in/ahmed-elhiouli-961a8718a)  
-[TryHackMe Profile](https://tryhackme.com/p/winned4s)  
-<img src="https://tryhackme-badges.s3.amazonaws.com/winned4s.png" alt="TryHackMe Badge" style="max-width: 300px; border: 1px solid #ddd; border-radius: 4px; padding: 5px; background-color: #f9f9f9;">
 
-## Professional Summary
-Dedicated cybersecurity professional with expertise in penetration testing, vulnerability assessment, and secure system optimization. Proven track record in delivering comprehensive security solutions for enterprises, including web application security, network analysis, and compliance auditing. Committed to ethical practices and continuous professional development in high-stakes environments.
 
-## Technical Expertise
+<!-- Name & Title Badge -->
+<img src="https://img.shields.io/badge/Ahmed_Elhiouli-Cybersecurity_Specialist_%7C_Penetration_Tester-0D1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDBsLTYgNmwtNi02aDJjMS42IDAgMy4yLjYgNC40IDEuOEwxMiA5bDcgLTcuMmMxLjItMS4yIDIuOC0xLjggNC40LTEuOEgyNkwxOCAweiBNMTIgMThsLTYgNmgtMnYtaDJsNi02IDYtNiA2IDYgdi0yaC0ybC02LTZ6IiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==&logoColor=white&labelColor=0D1117" alt="Ahmed Elhiouli - Cybersecurity Specialist">
 
-### Security Tools and Platforms
-- Kali Linux
-- Burp Suite
-- Metasploit
-- Nmap
-- Wireshark
-- OWASP Testing Methodology
-- Tor
+<br><br>
 
-### Programming and Scripting
-- Python
-- Bash
-- JavaScript
-- HTML/CSS
-- React
-- Node.js
-- Next.js
-- Tailwind CSS
+<!-- Social & Profile Badges -->
+<a href="https://www.linkedin.com/in/ahmed-elhiouli-961a8718a">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+&nbsp;
+<a href="https://tryhackme.com/p/winned4s">
+  <img src="https://img.shields.io/badge/TryHackMe-winned4s-9B2A2A?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
+</a>
 
-### Infrastructure and DevOps
-- Linux Administration
-- Docker
-- Git
-- GitHub
+<br><br>
 
-## Professional Experience
+<!-- TryHackMe Rank Badge -->
+<img src="https://tryhackme-badges.s3.amazonaws.com/winned4s.png" alt="TryHackMe Rank Badge" style="max-height: 120px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
 
-### CyberMa Services
-Founder and Operator  
-Cybersecurity consultancy specializing in security assessments, penetration testing, and vulnerability management services.  
-
-Website: [cyberma-services.vercel.app](https://cyberma-services.vercel.app)
-
-### Personal Portfolio
-Showcasing professional experience, technical projects, and cybersecurity research.  
-
-Website: [s4dwinner.lovable.app](https://s4dwinner.lovable.app)
-
-## Core Competencies
-- **Web Application Security**: API security testing, vulnerability assessment, penetration testing
-- **Network Security**: Protocol analysis, network reconnaissance, traffic analysis
-- **Automation**: Custom Python scripting for security tool development and process automation
-- **Secure Development**: Implementation of application security principles and secure coding practices
-- **Client Engagement**: Delivery of tailored security solutions and professional consultancy services
-
-## GitHub Activity
-
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin: 20px 0; padding: 10px; background-color: #f4f4f4; border-radius: 8px; border: 1px solid #ddd;">
-  <img src="https://github-readme-stats.vercel.app/api?username=s4dwinner&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0056d2&text_color=333333&icon_color=0056d2" alt="GitHub Stats" style="max-width: 45%; box-shadow: 0 2px 4px rgba(0,0,0,0.1); border-radius: 4px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4dwinner&layout=compact&hide_border=true&bg_color=ffffff&title_color=0056d2&text_color=333333&icon_color=0056d2" alt="Top Languages" style="max-width: 45%; box-shadow: 0 2px 4px rgba(0,0,0,0.1); border-radius: 4px;">
 </div>
 
-## Contact
-For cybersecurity consultancy services: [cyberma-services.vercel.app](https://cyberma-services.vercel.app)  
-Portfolio inquiries: [s4dwinner.lovable.app](https://s4dwinner.lovable.app)  
-Professional correspondence: Available via LinkedIn profile
+<br>
+
+### Professional Summary
+Dedicated cybersecurity professional specializing in penetration testing, vulnerability assessment, and secure system optimization. Experienced in delivering enterprise-grade security solutions with a focus on ethical practices, compliance, and high-impact threat mitigation.
+
+<br>
+
+### Technical Expertise
+<div align="center">
+
+| Category                  | Technologies & Tools                                      |
+|---------------------------|-----------------------------------------------------------|
+| **Security Platforms**    | Kali Linux • Burp Suite • Metasploit • Nmap • Wireshark • OWASP Methodology • Tor |
+| **Programming**           | Python • Bash • JavaScript • HTML/CSS • React • Node.js • Next.js • Tailwind CSS |
+| **Infrastructure**        | Linux Administration • Docker • Git • GitHub              |
+
+</div>
+
+<br>
+
+### Professional Experience
+<div align="center">
+
+<!-- CyberMa Services Button -->
+<a href="https://cyberma-services.vercel.app">
+  <img src="https://img.shields.io/badge/CyberMa_Services-Visit_Site-0066FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit CyberMa Services">
+</a>
+
+<br><br>
+
+**Founder & Lead Consultant**  
+Specialized cybersecurity consultancy offering penetration testing, vulnerability management, compliance auditing, and real-time threat intelligence services.
+
+<br><br>
+
+<!-- Portfolio Button -->
+<a href="https://s4dwinner.lovable.app">
+  <img src="https://img.shields.io/badge/Personal_Portfolio-View_Now-00A3E0?style=for-the-badge&logo=react&logoColor=white" alt="View Portfolio">
+</a>
+
+<br><br>
+
+Professional showcase of projects, research, and technical achievements in cybersecurity.
+
+</div>
+
+<br>
+
+### Core Competencies
+<div align="center">
+
+- **Web Application Security** → API testing, vulnerability assessment, exploitation mitigation  
+- **Network Security** → Reconnaissance, protocol analysis, intrusion detection  
+- **Automation & Tooling** → Custom Python scripts for security workflows and efficiency  
+- **Secure Development** → Integration of security best practices in SDLC  
+- **Client Delivery** → Tailored assessments, clear reporting, and strategic recommendations  
+
+</div>
+
+<br>
+
+### GitHub Activity
+<div align="center" style="background-color: #f8f9fa; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+
+<!-- Fixed GitHub Stats with working parameters -->
+<img src="https://github-readme-stats.vercel.app/api?username=s4dwinner&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0066cc&text_color=2d3748&icon_color=0066cc&include_all_commits=true&count_private=true" 
+     alt="GitHub Stats" 
+     style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); max-width: 480px; margin: 10px;">
+
+<br>
+
+<!-- Fixed Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=s4dwinner&layout=compact&hide_border=true&bg_color=ffffff&title_color=0066cc&text_color=2d3748&hide=html,css,jupyter%20notebook" 
+     alt="Top Languages" 
+     style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); max-width: 400px; margin: 10px;">
+
+</div>
+
+<br>
+
+<div align="center">
+
+### Contact
+
+<!-- Consultancy Button -->
+<a href="https://cyberma-services.vercel.app">
+  <img src="https://img.shields.io/badge/Cybersecurity_Consultancy-Contact-FF4500?style=for-the-badge&logo=maildotru&logoColor=white" alt="Cybersecurity Consultancy">
+</a>
+
+<br><br>
+
+<!-- Portfolio Button -->
+<a href="https://s4dwinner.lovable.app">
+  <img src="https://img.shields.io/badge/Portfolio_&_Projects-Explore-00A3E0?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio & Projects">
+</a>
+
+<br><br>
+
+<!-- LinkedIn Button -->
+<a href="https://www.linkedin.com/in/ahmed-elhiouli-961a8718a">
+  <img src="https://img.shields.io/badge/Professional_Networking-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Professional Networking">
+</a>
+
+<br><br>
+
+Professional inquiries and collaboration opportunities welcome.
+
+</div>
