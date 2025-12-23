@@ -19,7 +19,7 @@
 <br><br>
 
 <!-- TryHackMe Rank Badge -->
-<img src="https://tryhackme-badges.s3.amazonaws.com/winned4s.png" alt="TryHackMe Rank Badge" style="max-height: 120px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+<img src="https://tryhackme-badges.s3.amazonaws.com/winned4s.png" alt="Your Image Badge" />
 
 </div>
 
