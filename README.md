@@ -82,26 +82,6 @@ Professional showcase of projects, research, and technical achievements in cyber
 
 </div>
 
-<br>
-
-### GitHub Activity
-<div align="center" style="background-color: #f8f9fa; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-
-<!-- Fixed GitHub Stats with working parameters -->
-<img src="https://github-readme-stats.vercel.app/api?username=s4dwinner&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0066cc&text_color=2d3748&icon_color=0066cc&include_all_commits=true&count_private=true" 
-     alt="GitHub Stats" 
-     style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); max-width: 480px; margin: 10px;">
-
-<br>
-
-<!-- Fixed Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=s4dwinner&layout=compact&hide_border=true&bg_color=ffffff&title_color=0066cc&text_color=2d3748&hide=html,css,jupyter%20notebook" 
-     alt="Top Languages" 
-     style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); max-width: 400px; margin: 10px;">
-
-</div>
-
-<br>
 
 <div align="center">
 
