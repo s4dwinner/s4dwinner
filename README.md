@@ -1,64 +1,68 @@
-# Ahmed Elhiouli  
-Cybersecurity Specialist | Penetration Tester  
+# Ahmed Elhiouli
+Cybersecurity Specialist | Penetration Tester
 
 [LinkedIn Profile](https://www.linkedin.com/in/ahmed-elhiouli-961a8718a)  
 [TryHackMe Profile](https://tryhackme.com/p/winned4s)  
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/winned4s.png)
+<img src="https://tryhackme-badges.s3.amazonaws.com/winned4s.png" alt="TryHackMe Badge" style="max-width: 300px; border: 1px solid #ddd; border-radius: 4px; padding: 5px; background-color: #f9f9f9;">
 
-## Technical Expertise  
+## Professional Summary
+Dedicated cybersecurity professional with expertise in penetration testing, vulnerability assessment, and secure system optimization. Proven track record in delivering comprehensive security solutions for enterprises, including web application security, network analysis, and compliance auditing. Committed to ethical practices and continuous professional development in high-stakes environments.
 
-### Security Tools & Platforms  
-Kali Linux  
-Burp Suite  
-Metasploit  
-Nmap  
-Wireshark  
-OWASP Testing Methodology  
-Tor  
+## Technical Expertise
 
-### Programming & Scripting  
-Python  
-Bash  
-JavaScript  
-HTML/CSS  
-React  
-Node.js  
-Next.js  
-Tailwind CSS  
+### Security Tools and Platforms
+- Kali Linux
+- Burp Suite
+- Metasploit
+- Nmap
+- Wireshark
+- OWASP Testing Methodology
+- Tor
 
-### Infrastructure & DevOps  
-Linux Administration  
-Docker  
-Git  
-GitHub  
+### Programming and Scripting
+- Python
+- Bash
+- JavaScript
+- HTML/CSS
+- React
+- Node.js
+- Next.js
+- Tailwind CSS
 
-## Professional Services  
+### Infrastructure and DevOps
+- Linux Administration
+- Docker
+- Git
+- GitHub
 
-**CyberMa Services**  
-Founder and operator of a cybersecurity consultancy providing specialized security assessments, penetration testing, and vulnerability management services.  
+## Professional Experience
 
-Website: [cyberma-services.vercel.app](https://cyberma-services.vercel.app)  
+### CyberMa Services
+Founder and Operator  
+Cybersecurity consultancy specializing in security assessments, penetration testing, and vulnerability management services.  
 
-**Personal Portfolio**  
-Professional experience, technical projects, and cybersecurity research.  
+Website: [cyberma-services.vercel.app](https://cyberma-services.vercel.app)
 
-Website: [s4dwinner.lovable.app](https://s4dwinner.lovable.app)  
+### Personal Portfolio
+Showcasing professional experience, technical projects, and cybersecurity research.  
 
-## Core Competencies  
-Web Application Security: API security testing, vulnerability assessment, penetration testing  
-Network Security: Protocol analysis, network reconnaissance, traffic analysis  
-Automation: Custom Python scripting for security tool development and process automation  
-Secure Development: Implementation of application security principles and secure coding practices  
-Client Engagement: Delivery of tailored security solutions and professional consultancy services  
+Website: [s4dwinner.lovable.app](https://s4dwinner.lovable.app)
 
-## GitHub Activity  
+## Core Competencies
+- **Web Application Security**: API security testing, vulnerability assessment, penetration testing
+- **Network Security**: Protocol analysis, network reconnaissance, traffic analysis
+- **Automation**: Custom Python scripting for security tool development and process automation
+- **Secure Development**: Implementation of application security principles and secure coding practices
+- **Client Engagement**: Delivery of tailored security solutions and professional consultancy services
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s4dwinner&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=e0e0e0&icon_color=00d1ff" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4dwinner&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=e0e0e0&icon_color=00d1ff" alt="Top Languages" />
+## GitHub Activity
+
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin: 20px 0; padding: 10px; background-color: #f4f4f4; border-radius: 8px; border: 1px solid #ddd;">
+  <img src="https://github-readme-stats.vercel.app/api?username=s4dwinner&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0056d2&text_color=333333&icon_color=0056d2" alt="GitHub Stats" style="max-width: 45%; box-shadow: 0 2px 4px rgba(0,0,0,0.1); border-radius: 4px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4dwinner&layout=compact&hide_border=true&bg_color=ffffff&title_color=0056d2&text_color=333333&icon_color=0056d2" alt="Top Languages" style="max-width: 45%; box-shadow: 0 2px 4px rgba(0,0,0,0.1); border-radius: 4px;">
 </div>
 
-## Contact  
-Cybersecurity Consultancy: [cyberma-services.vercel.app](https://cyberma-services.vercel.app)  
-Portfolio: [s4dwinner.lovable.app](https://s4dwinner.lovable.app)  
-Email: Available via LinkedIn profile  
+## Contact
+For cybersecurity consultancy services: [cyberma-services.vercel.app](https://cyberma-services.vercel.app)  
+Portfolio inquiries: [s4dwinner.lovable.app](https://s4dwinner.lovable.app)  
+Professional correspondence: Available via LinkedIn profile
