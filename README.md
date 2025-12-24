@@ -1,9 +1,9 @@
 <div align="center">
 
-
-
-<!-- Name & Title Badge -->
-<img src="https://img.shields.io/badge/Ahmed_Elhiouli-Cybersecurity_Specialist_%7C_Penetration_Tester-0D1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDBsLTYgNmwtNi02aDJjMS42IDAgMy4yLjYgNC40IDEuOEwxMiA5bDcgLTcuMmMxLjItMS4yIDIuOC0xLjggNC40LTEuOEgyNkwxOCAweiBNMTIgMThsLTYgNmgtMnYtaDJsNi02IDYtNiA2IDYgdi0yaC0ybC02LTZ6IiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==&logoColor=white&labelColor=0D1117" alt="Ahmed Elhiouli - Cybersecurity Specialist">
+<!-- Name & Title Badge - Enhanced Size -->
+<div style="display: inline-block; padding: 10px 20px; background-color: #0D1117; border-radius: 10px; border: 1px solid #30363D;">
+  <img src="https://img.shields.io/badge/Ahmed_Elhiouli-Cybersecurity_Specialist_%7C_Penetration_Tester-0D1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDBsLTYgNmwtNi02aDJjMS42IDAgMy4yLjYgNC40IDEuOEwxMiA5bDcgLTcuMmMxLjItMS4yIDIuOC0xLjggNC40LTEuOEgyNkwxOCAweiBNMTIgMThsLTYgNmgtMnYtaDJsNi02IDYtNiA2IDYgdi0yaC0ybC02LTZ6IiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==&logoColor=white&labelColor=0D1117" alt="Ahmed Elhiouli - Cybersecurity Specialist" style="height: 50px;">
+</div>
 
 <br><br>
 
