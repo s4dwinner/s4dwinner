@@ -19,7 +19,7 @@
 <br><br>
 
 <!-- TryHackMe Rank Badge -->
-<img src="https://tryhackme-badges.s3.amazonaws.com/winned4s.png" alt="Your Image Badge" />
+<img width="329" height="88" alt="winned4s" src="https://github.com/user-attachments/assets/d74f8031-2aa1-4891-80fa-28ca25776df1" />
 
 </div>
 
